@@ -1,0 +1,9 @@
+3) Faça um servlet/jsp para criação de sessões
+
+a.  Criar e mostrar o ID da sessão
+b. Mostrar a data e hora da criação da sessão.
+c. Mostrar a data e hora de acesso da última sessão.
+d. Mostrar uma mensagem após a 5ª sessão.
+
+e. Enviar os  .jsp  ou .java e os prints das páginas
+f. Criar um projeto no GitHub e adicionar os arquivos dos exercícios 1 e 2
