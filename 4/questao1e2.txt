@@ -1,0 +1,16 @@
+Exercício sobre cooke
+1) Faça um servlet/jsp com formulário de cadastro de um novo usuário, o formulário deve ter 
+a. Campos para informações pessoais
+b. Campos para informações acadêmicas
+c. Campos para informações profissionais
+d. Campos para salvar um cor favorita
+
+2) Faça um servlet/jsp para recuperar  e mostrar os dados dos cookies da questão anterior
+
+a.   Apresentar os dados recuperados dos cookies utilizando a tag <h2>
+b. Utilizar o atributo style=\"color:   alterar a cor do texto de acordo com cor salva no cookie
+
+
+Enviar os  .jsp  ou .java e os prints das páginas
+
+b. Criar um projeto no GitHub e adicionar os arquivos dos exercícios 1 e 2
