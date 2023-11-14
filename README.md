@@ -1,6 +1,6 @@
 # 🚀 Dynamic Web Projects with Java, Servlets, Cookies, Sessions, MVC, HSQL, JSP, and More
 
-This GitHub project is a sample dynamic web application built using Java and a variety of technologies including Servlets, Cookies, Sessions, MVC architecture, HSQL database, JSP, and more. It serves as a template and example for creating web applications with these technologies.
+Dynamic web applications built using Java and a variety of technologies including Servlets, Cookies, Sessions, MVC architecture, HSQL database, JSP, and more. It serves as a template and example for creating web applications with these technologies.
 
 ## 🌌 Technologies Used
 
